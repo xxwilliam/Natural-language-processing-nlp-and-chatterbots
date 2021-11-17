@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    </body>    
+  <body>    
    <h1>Natural Language processing (NLP) and chatterbots.</h1>
  
  <p><b> Natural language Processing and Chatterbots by Madiha Sabahat.</b></p>
